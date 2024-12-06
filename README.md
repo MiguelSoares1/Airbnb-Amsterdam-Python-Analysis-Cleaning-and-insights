@@ -57,9 +57,6 @@ The final report will summarize:
 - **Recommendations**: Practical suggestions for Airbnb hosts to optimize their pricing strategies based on the findings.
 - **Data Citations**: Proper attribution of the data sources used in the analysis.
 
-## Project Objective:
-This analysis aims to provide actionable insights to help Airbnb hosts in Amsterdam optimize their pricing strategies. By understanding pricing drivers such as room type, location, amenities, and review scores, hosts can set competitive prices that maximize occupancy and profitability.
-
 
 ## Link for Storyboard:https://public.tableau.com/app/profile/miguel.soares4118/viz/Tableaurepresantion1234/Storyboard?publish=yes
 
